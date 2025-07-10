@@ -86,3 +86,10 @@ enableRobotsTXT = true
     url = "https://github.com/opera7133/tella"
     pre = "<i class='icon-github text-2xl'></i>"
       weight = 2
+
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

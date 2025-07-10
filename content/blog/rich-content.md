@@ -20,10 +20,6 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 <br>
 
 
-## Twitter Shortcode
-
-{{< twitter id="1085870671291310081" >}}
-
 <br>
 
 
