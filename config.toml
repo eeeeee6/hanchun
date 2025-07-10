@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-title = "Tella"
+baseURL = "https://eeeeee6.github.io/hanchun/"
+publishDir = "public"
 author = "username"
 languageCode = "en"
 DefaultContentLanguage = "en"
