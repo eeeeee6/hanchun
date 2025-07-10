@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Index on </title>
-    <link>http://localhost:1313/hanchun/tags/index/</link>
+    <link>https://eeeeee6.github.io/hanchun/tags/index/</link>
     <description>Recent content in Index on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hanchun/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eeeeee6.github.io/hanchun/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>http://localhost:1313/hanchun/blog/</link>
+      <link>https://eeeeee6.github.io/hanchun/blog/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hanchun/blog/</guid>
+      <guid>https://eeeeee6.github.io/hanchun/blog/</guid>
       <description></description>
     </item>
   </channel>
