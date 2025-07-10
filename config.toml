@@ -1,6 +1,6 @@
 baseURL = "https://eeeeee6.github.io/hanchun/"
 publishDir = "public"
-author = "username"
+author = "eva"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
