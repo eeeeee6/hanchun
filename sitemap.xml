@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://eeeeee6.github.io/hanchun/blog/example/</loc>
+    <loc>http://localhost:1313/hanchun/blog/example/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/</loc>
+    <loc>http://localhost:1313/hanchun/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/blog/</loc>
+    <loc>http://localhost:1313/hanchun/blog/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/categories/</loc>
+    <loc>http://localhost:1313/hanchun/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/tags/css/</loc>
+    <loc>http://localhost:1313/hanchun/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/tags/html/</loc>
+    <loc>http://localhost:1313/hanchun/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/tags/index/</loc>
+    <loc>http://localhost:1313/hanchun/tags/index/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/tags/markdown/</loc>
+    <loc>http://localhost:1313/hanchun/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/products/markdown-syntax/</loc>
+    <loc>http://localhost:1313/hanchun/products/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/products/</loc>
+    <loc>http://localhost:1313/hanchun/products/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/categories/syntax/</loc>
+    <loc>http://localhost:1313/hanchun/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/tags/</loc>
+    <loc>http://localhost:1313/hanchun/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/categories/themes/</loc>
+    <loc>http://localhost:1313/hanchun/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/tags/privacy/</loc>
+    <loc>http://localhost:1313/hanchun/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/products/rich-content/</loc>
+    <loc>http://localhost:1313/hanchun/products/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/tags/shortcodes/</loc>
+    <loc>http://localhost:1313/hanchun/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/products/placeholder-text/</loc>
+    <loc>http://localhost:1313/hanchun/products/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/tags/text/</loc>
+    <loc>http://localhost:1313/hanchun/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/products/math-typesetting/</loc>
+    <loc>http://localhost:1313/hanchun/products/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/tags/emoji/</loc>
+    <loc>http://localhost:1313/hanchun/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/products/emoji-support/</loc>
+    <loc>http://localhost:1313/hanchun/products/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/about/</loc>
+    <loc>http://localhost:1313/hanchun/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eeeeee6.github.io/hanchun/contact/</loc>
+    <loc>http://localhost:1313/hanchun/contact/</loc>
   </url>
 </urlset>
